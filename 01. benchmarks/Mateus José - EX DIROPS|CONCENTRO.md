@@ -41,3 +41,7 @@ Fui do trainee (maio) à efetivação na assessoria (julho) bem rápido.
 
 * **O que dá para virar proposta na Orc'estra?**
 (anotar aqui logo após a call)
+
+
+<img width="1911" height="903" alt="image" src="https://github.com/user-attachments/assets/40a9cd6c-0804-43ec-b739-e42eee24f443" />
+
