@@ -11,8 +11,8 @@ Por aqui vou controlar os prazos do edital, documentar os 7 *benchmarks* obrigat
 **Prazos do Edital**
 | Data | Etapa | Ação |
 | :--- | :--- | :--- |
-| 07/11/2026 | Inscrição | Enviar Carta de Motivação e arquivo `.zip` com os 7 *benchmarks*. |
-| 14/11/2026 | Entrevistas | Entrevista com a Comissão Eleitoral. |
+| 10/11/2026 | Inscrição | Enviar Carta de Motivação e arquivo `.zip` com os 7 *benchmarks*. |
+| 17/11/2026 | Entrevistas | Entrevista com a Comissão Eleitoral. |
 | 21/11/2026 | Sabatina | Enviar slides, apresentar (7 min) e responder à Sabatina. |
 
 **Disponibilidade para a candidatura**
