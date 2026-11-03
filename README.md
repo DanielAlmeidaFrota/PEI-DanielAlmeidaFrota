@@ -28,11 +28,11 @@ Os blocos livres na grade (PED, MDS, PI1, EDA1, MD2, TED) para agendar *benchmar
 ## Quadro de tarefas
 
 ### Inteligência e benchmarking
-- [ ] Mapear contatos e enviar convites para os *benchmarks*.
-- [ ] Realizar *bench* com membro ou ex-membro da Equipe Concentro (1/2).
-- [ ] Realizar *bench* com membro ou ex-membro da Equipe Concentro (2/2).
+- [x] Mapear contatos e enviar convites para os *benchmarks*.
+- [x] Realizar *bench* com membro ou ex-membro da Equipe Concentro (1/2).
+- [x] Realizar *bench* com membro ou ex-membro da Equipe Concentro (2/2).
 - [ ] Realizar *bench* com membro de outra Empresa Júnior.
-- [ ] Realizar *bench* com ex-membro da Diretoria Executiva da Orc'estra.
+- [x] Realizar *bench* com ex-membro da Diretoria Executiva da Orc'estra.
 - [ ] Realizar *bench* livre com referência no cargo (1/3).
 - [ ] Realizar *bench* livre com referência no cargo (2/3).
 - [ ] Realizar *bench* livre com referência no cargo (3/3).
