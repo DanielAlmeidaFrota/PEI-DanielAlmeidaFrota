@@ -19,7 +19,7 @@ Hoje pude estudar e fazer um grande avanço na carta de motivação.
   Sei que é uma preocupação válida de parte da empresa e que realmente é um fator determinante na escolha de candidatos e na minha aprovação.
 
   Acredito que tomando conhecimento dos principais acontecimentos da empresa, principalmente os mais recentes e vividos por membros ainda efetivos, me destrinchando pela visão dos que viveram essa época, vendo como
-  trabalharam e os resultados quem conseguiram, eu posso montar um argumento sólido e elaborar uma visão de como eu olharia para a situação e faria diante daquele empecilho. Procurar não diminuir a vivência das pessoas e
+  trabalharam e os resultados que conseguiram, eu posso montar um argumento sólido e elaborar uma visão de como eu olharia para a situação e faria diante daquele empecilho. Procurar não diminuir a vivência das pessoas e
   também não elaborar uma coisa que seria impossível ou racional demais por ja ter os resultados nas mãos e mais tempo para pensar.
   
   Posso tentar argumentar também que pelo fato de não ter vivido tempos passados da empresa, eu posso ser mais sucetivel a pensar de maneira mais aberta e sem o medo de ocasiões antigas e sem os vícios de processos de
