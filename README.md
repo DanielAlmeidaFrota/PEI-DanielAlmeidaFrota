@@ -33,20 +33,20 @@ Os blocos livres na grade (PED, MDS, PI1, EDA1, MD2, TED) para agendar *benchmar
 - [x] Realizar *bench* com membro ou ex-membro da Equipe Concentro (2/2).
 - [ ] Realizar *bench* com membro de outra Empresa Júnior.
 - [x] Realizar *bench* com ex-membro da Diretoria Executiva da Orc'estra.
-- [ ] Realizar *bench* livre com referência no cargo (1/3).
+- [x] Realizar *bench* livre com referência no cargo (1/3).
 - [ ] Realizar *bench* livre com referência no cargo (2/3).
 - [ ] Realizar *bench* livre com referência no cargo (3/3).
 - [ ] Salvar as capturas de tela das reuniões.
 - [ ] Enviar as capturas em um arquivo `.zip` nomeado `[PROCESSO ELEITORAL] BENCHS`.
 
-### Carta de motivação e inscrição (Até 07/11)
+### Carta de motivação e inscrição (Até 10/11)
 - [ ] Preencher a Carta de Motivação no *template* oficial.
 - [ ] Incluir resultados da vivência como assessor de operações.
 - [ ] Conectar propostas a gestão de clima, fluxo de caixa e retenção de membros (E-NPS > 70).
 - [ ] Enviar `.zip` dos *benchmarks* para `processoeleitoral@orcestra.com.br`.
 - [ ] Enviar Carta para o mesmo e-mail (Assunto: `[PROCESSO ELEITORAL] DIRETOR DE OPERAÇÕES`).
 
-### Entrevista e parecer (Até 14/11)
+### Entrevista e parecer (Até 17/11)
 - [ ] Estruturar a fala sobre a trajetória como assessor.
 - [ ] Revisar atribuições estatutárias do cargo.
 - [ ] Realizar a entrevista com a Comissão Eleitoral.
