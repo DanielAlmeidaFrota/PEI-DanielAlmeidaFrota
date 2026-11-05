@@ -34,7 +34,7 @@ Os blocos livres na grade (PED, MDS, PI1, EDA1, MD2, TED) para agendar *benchmar
 - [ ] Realizar *bench* com membro de outra Empresa Júnior.
 - [x] Realizar *bench* com ex-membro da Diretoria Executiva da Orc'estra.
 - [x] Realizar *bench* livre com referência no cargo (1/3).
-- [ ] Realizar *bench* livre com referência no cargo (2/3).
+- [x] Realizar *bench* livre com referência no cargo (2/3).
 - [ ] Realizar *bench* livre com referência no cargo (3/3).
 - [ ] Salvar as capturas de tela das reuniões.
 - [ ] Enviar as capturas em um arquivo `.zip` nomeado `[PROCESSO ELEITORAL] BENCHS`.
